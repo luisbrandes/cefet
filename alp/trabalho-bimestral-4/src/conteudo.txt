@@ -1,0 +1,4 @@
+Maria Aparecida,20,Ir ao cinema,Telefone: 9988-7766,Obs: Gosta de filmes de acao
+Joao da Silva,32,Marcar consulta no dentista,Telefone: 1234-5678,Obs: Levar carteirinha do plano
+Pedro Henrique Santos,25,Jogar futebol no sabado,Telefone: 2222-3333,Obs: Comprar chuteiras novas
+Ana Paula Siqueira,19,Estudar Logica de Programacao,Telefone: 9876-5432,Obs: Revisar exercicios TB4
