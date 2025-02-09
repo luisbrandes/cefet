@@ -1,0 +1,14 @@
+# Ignorar executáveis gerados localmente
+programa
+*.exe
+*.out
+*.o
+
+# Ignorar qualquer outro arquivo que inicie com '.programa'
+.programa*
+
+# Ignorar possíveis arquivos de log
+*.log
+
+# Se for usar Makefile, ignorar pastas/arquivos de build
+build/
