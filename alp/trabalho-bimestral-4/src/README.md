@@ -1,6 +1,6 @@
-# Algoritmos e Lógica de Programação - Trabalho Bimestral 4
+# Trabalho Bimestral 4
 
-Este repositório contém um exemplo de implementação de **Fila Encadeada em C** abordando operações de enfileirar, desenfileirar, impressão, leitura e escrita de arquivos, seguindo o padrão FIFO (*First In, First Out*).
+Este diretorio contém um exemplo de implementação de **Fila Encadeada em C** abordando operações de enfileirar, desenfileirar, impressão, leitura e escrita de arquivos, seguindo o padrão FIFO (*First In, First Out*).
 
 ## Estrutura de Diretórios
 
